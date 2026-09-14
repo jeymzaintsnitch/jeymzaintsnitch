@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-09-14T09:25:53.429Z",
+  "profile": {
+    "title": "James Rolmer V. Catalan",
+    "subtitle": "Junior Dev",
+    "currentWork": "",
+    "currentLearn": "Java and Springboot",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "",
+    "funFact": "coder sa umaga gamer sa gabi",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://github.com/jeymzaintsnitch/jeymzaintsnitch",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "jeymzaintsnitch",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "bootstrap",
+    "cplusplus",
+    "css3",
+    "docker",
+    "html5",
+    "java",
+    "laravel",
+    "mysql",
+    "nodejs",
+    "php",
+    "python",
+    "react",
+    "scala",
+    "spring",
+    "sqlite"
+  ]
+}
